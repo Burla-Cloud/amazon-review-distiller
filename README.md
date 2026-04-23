@@ -2,6 +2,12 @@
 
 **Live site: <https://burla-cloud.github.io/amazon-review-distiller/>**
 
+## Try it in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Burla-Cloud/amazon-review-distiller/blob/main/Burla_AmazonReviewDistiller_Demo.ipynb)
+
+Follow along in a notebook - score ~300K real Amazon reviews across 10 cloud workers in about 3 minutes. Top-unhinged rankings render inline. No prior Burla knowledge needed.
+
 We streamed **571 million Amazon reviews** — the entire public
 `McAuley-Lab/Amazon-Reviews-2023` corpus on HuggingFace, **275 GB of raw
 JSONL** — through a Burla cluster of **500+ parallel CPUs**, scored every
